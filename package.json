@@ -13,7 +13,6 @@
     "@mui/icons-material": "^5.10.3",
     "@mui/material": "^5.10.3",
     "axios": "^0.27.2",
-    "dotenv": "^16.0.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "vite-tsconfig-paths": "^3.5.0"
